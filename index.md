@@ -1,1 +1,1 @@
-<h1 class="color=blue">Syna Code<h1>
+<h1 class="color=blue">Syna Rahbary<h1>
