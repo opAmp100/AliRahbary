@@ -7,4 +7,3 @@
 <a href="https://github.com/opAmp100">My github Page</a><br>
 <a href="https://github.com/opAmp100">My Telegram</a><br>
 </body>
-
