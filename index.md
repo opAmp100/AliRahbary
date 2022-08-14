@@ -1,6 +1,6 @@
 <!-- As a link -->
 <nav class="navbar navbar-light bg-light">
-  <a class="navbar-brand" href="#">Navbar</a>
+  <a class="navbar-brand" href="#">Home</a>
 </nav>
 
 <!-- As a heading -->
